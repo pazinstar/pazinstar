@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pazinstar
+- 👋 Hi, I’m Pazinstar
 - 👀 I’m interested in full-stack development 
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Django apps
